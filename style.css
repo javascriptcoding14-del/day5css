@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin:10% 25%;
+}
+
+.btn {
+    padding: 2vh 6vh 1vh;
+    font-size: 12px;
+    background: linear-gradient(to right, orange, lightgreen);
+    color: white;
+    border: 0.4px solid grey;
+    width: 350px;
+}
+
+img {
+    display: block;
+    width:350px;
+    height:200px;
+}
+ 
